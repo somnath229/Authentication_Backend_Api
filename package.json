@@ -4,8 +4,8 @@
   "description": "Notebook- your notebook on cloud.",
   "main": "index.js",
   "scripts": {
-     "build": "node app.js",
-    "start": "nodemon app.js",
+     "build": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
